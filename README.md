@@ -26,5 +26,3 @@ This is a PHP-based Property Management Web Application that provides a public p
 - MySQL
 - DataTables & AdminLTE plugins
 
-## 📂 Project Structure
-
